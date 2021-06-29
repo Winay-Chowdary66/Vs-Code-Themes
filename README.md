@@ -1,1 +1,29 @@
 # Vs-Code-Themes
+
+<h1>settings.json File</h1>
+<p>"workbench.colorCustomizations": {
+        "activityBarBadge.background": "#f14907",
+        "activityBar.activeBorder": "#f14907",
+        "list.activeSelectionForeground": "#f14907",
+        "list.inactiveSelectionForeground": "#f14907",
+        "list.highlightForeground": "#f14907",
+        "scrollbarSlider.activeBackground": "#f86e37",
+        "editorSuggestWidget.highlightForeground": "#f14907",
+        "textLink.foreground": "#f14907",
+        "progressBar.background": "#f14907",
+        "pickerGroup.foreground": "#f14907",
+        "tab.activeBorder": "#f14907",
+        "notificationLink.foreground": "#f14907",
+        "editorWidget.resizeBorder": "#f14907",
+        "editorWidget.border": "#f14907",
+        "settings.modifiedItemIndicator": "#f14907",
+        "settings.headerForeground": "#f14907",
+        "panelTitle.activeBorder": "#f14907",
+        "breadcrumb.activeSelectionForeground": "#f14907",
+        "menu.selectionForeground": "#f14907",
+        "menubar.selectionForeground": "#f14907",
+        "editor.findMatchBorder": "#f14907",
+        "selection.background": "#f14907",
+        "statusBarItem.remoteBackground": "#f14907"
+    },
+    "materialTheme.accent": "Tomato",</p>
